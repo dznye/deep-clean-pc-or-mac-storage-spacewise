@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+worker/
+build_worker.py
