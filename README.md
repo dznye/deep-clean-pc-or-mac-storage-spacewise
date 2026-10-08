@@ -9,7 +9,7 @@ Everything you remove goes to the Recycle Bin first, so nothing is gone for good
 
 ## Download
 
-**Windows:** get **SpaceWise.exe** from the [Releases page](../../releases/latest) and double-click it. Your browser opens the app: click **Scan my profile**.
+**Windows:** get [**SpaceWise.exe**](downloads/SpaceWise.exe) (9 MB) and double-click it. Your browser opens the app: click **Scan my profile**.
 
 **Mac:** get [**SpaceWise-Mac.zip**](downloads/SpaceWise-Mac.zip) (50 MB), unzip it, then right-click **SpaceWise.app** -> Open -> Open (first time only). Nothing to install - Python is bundled; works on Apple-silicon and Intel Macs. For a full scan add SpaceWise.app under System Settings -> Privacy & Security -> Full Disk Access. Details are in the zip's *READ ME FIRST.txt*.
 
