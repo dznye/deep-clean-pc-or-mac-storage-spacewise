@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fuidzy.com/deep-clean-pc-or-mac-storage/sitemap.xml
+Sitemap: https://dznye.github.io/deep-clean-pc-or-mac-storage-spacewise/sitemap.xml

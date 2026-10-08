@@ -1,4 +1,5 @@
 __pycache__/
 *.pyc
 worker/
-build_worker.py
+build_site.py
+_style.css

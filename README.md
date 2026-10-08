@@ -9,12 +9,14 @@ Everything you remove goes to the Recycle Bin first, so nothing is gone for good
 
 ## Download
 
-Get **SpaceWise.exe** from the [Releases page](../../releases/latest) and double-click it. Your browser opens the app: click **Scan my profile**.
+**Windows:** get **SpaceWise.exe** from the [Releases page](../../releases/latest) and double-click it. Your browser opens the app: click **Scan my profile**.
+
+**Mac (experimental):** get **SpaceWise-Mac.zip** from the same page, unzip, right-click `SpaceWise.command` -> Open -> Open. Needs [Python 3](https://www.python.org/downloads/). For a full scan, turn on Full Disk Access for Terminal (System Settings -> Privacy & Security). Details are in the zip's *READ ME FIRST.txt*.
 
 | Platform | Status |
 |---|---|
 | Windows 10 / 11 | Available |
-| macOS | Experimental build coming (not tested on a real Mac yet) |
+| macOS | **Experimental** - download `SpaceWise-Mac.zip` (not tested on a real Mac yet) |
 
 **"Windows protected your PC"?** The app is new and not code-signed yet. Click **More info -> Run anyway**. To verify your download, compare its SHA-256 hash with the one listed on the release:
 
@@ -48,7 +50,9 @@ certutil -hashfile SpaceWise.exe SHA256
 
 ## Support
 
-Open an [issue](../../issues) or see the website for contact details.
+Email **fuidzy@outlook.com** or open an [issue](../../issues).
+
+Forged by **@dznye** - DZY Team
 
 ## Terms
 

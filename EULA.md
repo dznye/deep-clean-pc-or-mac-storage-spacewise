@@ -21,3 +21,7 @@
 **9. Termination.** These terms end automatically if you break them. Then you must stop using the software and delete your copies.
 
 **10. Changes.** We may update these terms for future versions; the version that shipped with your download applies to it.
+
+**Contact:** fuidzy@outlook.com
+
+Forged by @dznye - DZY Team
